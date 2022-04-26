@@ -1,4 +1,4 @@
-#removing all the configurations here, so that config-consumer doesnot override it cinfigurations and try running at 8191 instead of 8080.
+#removing all the configurations here, so that config-consumer doesnot override its configurations and try running at 8191 instead of 8080.
 #server:
   #port: 8191
 #spring:
